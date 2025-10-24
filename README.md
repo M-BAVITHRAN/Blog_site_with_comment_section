@@ -20,3 +20,12 @@ Key Features:
 🔍 Search or filter blog posts by category or keyword
 
 🎨 Responsive, user-friendly interface
+
+
+Technologies Used:
+
+HTML – Structure of the webpage
+
+CSS – Styling and responsive design
+
+JavaScript – Dynamic functionality and comment handling
